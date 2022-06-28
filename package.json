@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "babel-jest": "^23.0.1",
+    "lerna": "^3.4.3"
+  },
+  "name": "kneaver-tray"
+}
